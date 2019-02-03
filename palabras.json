@@ -1,0 +1,69 @@
+[  
+     {
+      "id": 1,
+      "palabra": "toche",
+      "significado": "idiota",
+      "imagen":"jpg",
+     
+      "departamentos":[{"nombre": "NSantander",
+             "ref":"departamentos"}]
+
+    },
+
+
+    {
+      "id": 2,
+      "palabra": "locha",
+      "significado": "pereza",
+      "imagen":"jpg",
+     
+      "departamentos":[{"nombre": "Antioquia",
+             "ref": "departamentos"}]
+
+    },
+
+
+     {
+      "id": 4,
+      "palabra": "camello",
+      "significado": "trabajo",
+      "imagen":"jpg",
+     
+      "departamentos":[{"nombre": "cordoba",
+             "ref": "departamentos"}]
+
+    },
+
+     {
+      "id": 5,
+      "palabra": "alita",
+      "significado": "a buena hora",
+      "imagen":"jpg",
+     
+      "departamentos":[{"nombre": "nariño",
+             "ref": "departamentos"}]
+
+    },
+
+    {
+      "id": 6,
+      "palabra": "pola",
+      "significado": "cerveza",
+      "imagen":"jpg",
+     
+      "departamentos":[{"nombre": "cundinamarca",
+             "ref": "departamentos"}]
+
+    },
+
+
+    {
+      "id": 8,
+      "palabra": "bacano",
+      "significado": "bonito",
+      "imagen":"jpg",
+     
+      "departamentos":[{"nombre": "Atlantico",
+             "ref": "departamentos"}]
+
+    } ]
